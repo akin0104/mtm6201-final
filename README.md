@@ -11,7 +11,8 @@ This is my final project for MTM6201 - Web Development at Algonquin College.
 **Note:** My original design file was lost due to a laptop issue. This updated design is close, but some images or sections may look slightly different from the original.
 
 ## 📁 Assets & Resources
-- Fonts: [Google Fonts – INSERT FONT NAME](https://fonts.google.com)
+- Fonts: [Google Fonts – Roboto](https://fonts.google.com/specimen/Roboto)
+
 - CSS Libraries:
   - Bootstrap (https://getbootstrap.com)
     
